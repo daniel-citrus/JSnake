@@ -5,9 +5,10 @@ const TerserPlugin = require('terser-webpack-plugin');
 
 module.exports = {
     entry: [
-        './src/scripts/main.js',
-        './src/scripts/barrel.js',
         './src/scripts/arena.js',
+        './src/scripts/barrel.js',
+        './src/scripts/displayControl.js',
+        './src/scripts/main.js',
         './src/scripts/player.js',
         './src/scripts/snake.js',
     ],
