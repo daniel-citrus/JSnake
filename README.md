@@ -2,15 +2,14 @@
 <p>The original snake game written in Javascript.</p>
 
 [ ] Snake
-    [ ] vars
+    [X] vars
         [X] direction
         [X] length
-        [ ] speed
     [ ] functions
-        [ ] grow
-        [ ] die
-        [ ] move forward
-        [ ] change direction
+        [X] grow
+        [X] die
+        [X] move forward
+        [X] change direction
         [ ] check head collision
             [ ] hits food
               [ ] grow snake depending on food
