@@ -20,7 +20,6 @@ Arena.prototype.getArena = function () {
 };
 
 /**
- *
  * @param {*} x coordinate
  * @param {*} y coordinate
  * @param {*} value

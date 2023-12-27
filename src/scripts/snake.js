@@ -118,3 +118,5 @@ Snake.prototype.changeDirection = function (direction) {
 
     this.direction = direction;
 };
+
+export default Snake;
